@@ -1,4 +1,4 @@
-from turtle import title
+#from turtle import title
 from django.db import models
 from django.utils.timezone import now
 from Realtors.models import Realtor

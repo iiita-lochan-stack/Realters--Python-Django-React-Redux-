@@ -1,7 +1,7 @@
 from distutils.command.upload import upload
 import email
 from statistics import mode
-from tkinter.tix import Tree
+#from tkinter.tix import Tree
 from django.db import models
 from datetime import datetime
 from django.utils import timezone
