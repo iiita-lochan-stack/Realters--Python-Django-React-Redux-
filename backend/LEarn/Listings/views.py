@@ -1,7 +1,7 @@
 from ast import keyword
 from datetime import datetime, timezone
 from re import I, S
-from turtle import pd
+#from turtle import pd
 from django.shortcuts import render
 
 from rest_framework.response import Response
